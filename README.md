@@ -52,7 +52,6 @@ This project is focused on creating a comprehensive blog REST API using Next.js 
    Create a `.env.local` file in the root directory and add the following environment variables:
    ```
    MONGODB_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
    ```
 
 4. **Run the Development Server:**
